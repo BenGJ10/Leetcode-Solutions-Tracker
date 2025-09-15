@@ -202,6 +202,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [Solution](./Binary%20Trees/144_Binary_Tree_Preorder_Traversal.cpp) |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | [Solution](./Binary%20Trees/145_Binary_Tree_Postorder_Traversal.cpp) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Solution](./Binary%20Trees/543_Diameter_of_Binary_Tree.cpp) |
+| [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | [Solution](./Binary%20Trees/987_Vertical_Order_Traversal.cpp) |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | [Solution](./Binary%20Trees/1448_Count_Good_Nodes_in_Binary_Tree.cpp) |
 
 ---
@@ -275,6 +276,13 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium | [Solution](./Graphs/684_Redundant_Connection.cpp) |
 | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [Solution](./Graphs/947_Most_Stones%20Removed_with_Same_Row_or_Column.cpp) |
 | [1319. Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [Solution](./Graphs/1319_Number_of_Operations_to_Make_Network_Connected.cpp) |
+---
+
+## Trees Miscellaneous
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [Boundary Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | Medium | [Solution](./Binary%20Trees/GFG_Boundary_Traversal.cpp) |
+
 ---
 
 ## Graph Miscellaneous
