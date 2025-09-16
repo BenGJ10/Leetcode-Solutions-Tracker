@@ -282,8 +282,9 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 ## Trees Miscellaneous
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| [Boundary Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | Medium | [Solution](./Binary%20Trees/GFG_Boundary_Traversal.cpp) |
-
+| [Boundary Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | Medium | [Solution](./Trees%20Miscellaneous/Boundary_Traversal_of_Binary_Tree.cpp) |
+| [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Medium | [Solution](./Trees%20Miscellaneous/Top_View_of_Binary_Tree.cpp) |
+| [Bottom View of Binary Tree](Link: https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | Medium | [Solution](./Trees%20Miscellaneous/Bottom_View_of_Binary_Tree.cpp) |
 ---
 
 ## Graph Miscellaneous
