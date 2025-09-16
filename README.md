@@ -201,6 +201,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Solution](./Binary%20Trees/129_Sum_Root_To_Leaf_Numbers.cpp) |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [Solution](./Binary%20Trees/144_Binary_Tree_Preorder_Traversal.cpp) |
 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | [Solution](./Binary%20Trees/145_Binary_Tree_Postorder_Traversal.cpp) |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [Solution](./Binary%20Trees/199_Binary_Tree_Right_Side_View.cpp) |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Solution](./Binary%20Trees/543_Diameter_of_Binary_Tree.cpp) |
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | [Solution](./Binary%20Trees/987_Vertical_Order_Traversal.cpp) |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | [Solution](./Binary%20Trees/1448_Count_Good_Nodes_in_Binary_Tree.cpp) |
