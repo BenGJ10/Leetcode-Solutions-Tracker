@@ -196,6 +196,7 @@ This repository contains my C++ solutions for various LeetCode problems, organiz
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | [Solution](./Binary%20Trees/103_ZigZag_Level_Order_Traversal.cpp) |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Solution](./Binary%20Trees/110_Balanced_Binary_Tree.cpp) |
 | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Solution](./Binary%20Trees/111_Minimum_Depth_of_Binary_Tree.cpp) |
+| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Medium | [Solution](./Binary%20Trees/113_Path_Sum_II.cpp) |
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [Solution](./Binary%20Trees/114_Flattewn_Binary_Tree.cpp) |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [Solution](./Binary%20Trees/124_Max_Path_Sum.cpp) |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Solution](./Binary%20Trees/129_Sum_Root_To_Leaf_Numbers.cpp) |
