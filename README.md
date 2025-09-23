@@ -6,7 +6,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Arrays 
+## [Arrays](Arrays/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -31,7 +31,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Strings
+## [Strings](Strings/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -50,7 +50,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Matirx
+## [Matirx](Matrix/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -62,7 +62,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Solution](./Matrix/867_Transpose_Matrix.cpp) |
 ---
 
-## Two Pointers
+## [Two Pointers](Two%20Pointers/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -76,7 +76,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | [Solution](./Two%20Pointers/2161_Partition_Array_with_Pivot.cpp) |
 ---
 
-## Prefix Sum
+## [Prefix Sum](Prefix%20Sum/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](./Prefix%20Sum/238_Product_of_Array_Except_Self.cpp) |
@@ -88,7 +88,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Sliding Window
+## [Sliding Window](Sliding%20Window/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](./Sliding%20Window/3_Longest_Substring_Without_Repeating_Characters.cpp) |
@@ -106,7 +106,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Binary Search
+## [Binary Search](Binary%20Search/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -132,7 +132,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [2517. Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | Medium | [Solution](./Binary%20Search/2517_Max_Tastiness_of_Candy_Basket.cpp) |
 ---
 
-## Stacks and Queues
+## [Stacks and Queues](Stack%20and%20Queues/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](./Stack%20and%20Queues/20_Valid_Parentheses.cpp) |
@@ -154,7 +154,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Stacks and Queues Implementation
+## [Stacks and Queues Implementation](Stack%20and%20Q%20Implementations/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | Stack using Arrays | Easy | [Solution](./Stack%20and%20Q%20Implementations/Implement_Stack_using_Array.cpp) |
@@ -165,7 +165,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Linked Lists
+## [Linked Lists](Linked%20Lists/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Solution](./Linked%20Lists/2_Add_Two_Numbers.cpp) |
@@ -190,7 +190,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Binary Trees
+## [Binary Trees](Binary%20Trees/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Solution](./Binary%20Trees/94_Binary_Tree_Inorder_Traversal.cpp) |
@@ -217,7 +217,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Binary Trees
+## [ Binary Search Trees](Binary%20Search%20Trees/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/98_Validate_BST.cpp) |
@@ -229,7 +229,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 ---
 
 
-## Recursion and Backtracking
+## [Recursion and Backtracking](Recursion/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Solution](./Recursion/17_Letter_Combinations_of_Phone_Number.cpp.cpp) |
@@ -245,7 +245,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## BFS and DFS in Graphs
+## [BFS and DFS in Graphs](Graphs/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -268,7 +268,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Topological Sorting in Graphs
+## [Topological Sorting in Graphs](Graphs/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Solution](./Graphs/207_Course_Schedule.cpp) |
@@ -277,7 +277,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Shortest Path Algorithms in Graphs
+## [Shortest Path Algorithms in Graphs](Graphs/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | [Solution](./Graphs/743_Network_Delay_Time.cpp) |
@@ -290,7 +290,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Minimum Spanning Tree & Disjoint Set in Graphs
+## [Minimum Spanning Tree & Disjoint Set in Graphs](Graphs/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -300,7 +300,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [1319. Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [Solution](./Graphs/1319_Number_of_Operations_to_Make_Network_Connected.cpp) |
 ---
 
-## Trees Miscellaneous
+## [Trees Miscellaneous](Trees%20Miscellaneous/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [Morris Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Solution](./Trees%20Miscellaneous/Morris_In_Order_Traversal.cpp) |
@@ -312,7 +312,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## Graph Miscellaneous
+## [Graph Miscellaneous](Graph%20Miscellaneous/)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -325,4 +325,4 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | Prim's Algorithm (MST)| Medium | [Solution](./Graph%20Miscellaneous/Prim's_Algorithm.cpp) |
 | Disjoint Set (Union by Rank) | Medium | [Solution](./Graph%20Miscellaneous/DisjointSet_Union_by_Rank.cpp) |
 
-
+---
