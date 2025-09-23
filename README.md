@@ -220,9 +220,12 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 ## Binary Trees
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/98_Validate_BST.cpp) |
+| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Solution](./Binary%20Search%20Trees/230_Kth_Element_in_BST.cpp) |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [Solution](./Binary%20Search%20Trees/450_Delete_Node_in_BST.cpp) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Solution](./Binary%20Search%20Trees/700_Search_in_BST.cpp) |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/701_Insert_into_BST.cpp) |
+| [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | [Solution](./Binary%20Search%20Trees/1008_Construct_BST_from_Inorder.cpp) |
 ---
 
 
