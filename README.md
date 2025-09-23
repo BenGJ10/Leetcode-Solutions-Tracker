@@ -221,7 +221,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Solution](./Binary%20Search%20Trees/700_Search_in_BST.cpp) |
-
+| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/701_Insert_into_BST.cpp) |
 ---
 
 
