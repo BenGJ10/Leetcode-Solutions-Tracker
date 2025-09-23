@@ -217,6 +217,14 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
+## Binary Trees
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Solution](./Binary%20Search%20Trees/700_Search_in_BST.cpp) |
+
+---
+
+
 ## Recursion and Backtracking
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -296,6 +304,8 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [Boundary Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | Medium | [Solution](./Trees%20Miscellaneous/Boundary_Traversal_of_Binary_Tree.cpp) |
 | [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Medium | [Solution](./Trees%20Miscellaneous/Top_View_of_Binary_Tree.cpp) |
 | [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | Medium | [Solution](./Trees%20Miscellaneous/Bottom_View_of_Binary_Tree.cpp) |
+| [Find Ceil in a BST](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Easy | [Solution](./Trees%20Miscellaneous/Find_Ceil_in_BST.cpp) |
+
 ---
 
 ## Graph Miscellaneous
