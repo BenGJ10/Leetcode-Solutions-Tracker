@@ -225,6 +225,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Solution](./Binary%20Search%20Trees/230_Kth_Element_in_BST.cpp) |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/235_LCA_of_BST.cpp) |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [Solution](./Binary%20Search%20Trees/450_Delete_Node_in_BST.cpp) |
+| [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [Solution](./Binary%20Search%20Trees/653_Two_Sum_IV_BST.cpp) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [Solution](./Binary%20Search%20Trees/700_Search_in_BST.cpp) |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/701_Insert_into_BST.cpp) |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | [Solution](./Binary%20Search%20Trees/1008_Construct_BST_from_Preorder.cpp) |
