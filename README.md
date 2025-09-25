@@ -221,6 +221,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/98_Validate_BST.cpp) |
+| [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Solution](./Binary%20Search%20Trees/173_BST_Iterator.cpp) |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Solution](./Binary%20Search%20Trees/230_Kth_Element_in_BST.cpp) |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/235_LCA_of_BST.cpp) |
 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [Solution](./Binary%20Search%20Trees/450_Delete_Node_in_BST.cpp) |
