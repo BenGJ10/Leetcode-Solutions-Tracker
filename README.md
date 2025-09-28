@@ -233,6 +233,13 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | [Solution](./Binary%20Search%20Trees/1008_Construct_BST_from_Preorder.cpp) |
 ---
 
+## [ Heaps / Priority Queues](Heaps/)
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Solution](./Heaps/215_Kth_Largest_Element.cpp) |
+| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [Solution](./Heaps/1046_Last_Stone_Weight.cpp) |
+
+---
 
 ## [Recursion and Backtracking](Recursion/)
 | Problem | Difficulty | Solution |
