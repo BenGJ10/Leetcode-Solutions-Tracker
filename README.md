@@ -237,6 +237,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Solution](./Heaps/215_Kth_Largest_Element.cpp) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](./Heaps/347_Top_K_Frequent_Elements.cpp) |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [Solution](./Heaps/1046_Last_Stone_Weight.cpp) |
 
 ---
