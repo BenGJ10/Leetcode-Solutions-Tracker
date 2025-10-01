@@ -233,13 +233,20 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | [Solution](./Binary%20Search%20Trees/1008_Construct_BST_from_Preorder.cpp) |
 ---
 
-## [ Heaps / Priority Queues](Heaps/)
+## [Heaps / Priority Queues](Heaps/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Solution](./Heaps/215_Kth_Largest_Element.cpp) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](./Heaps/347_Top_K_Frequent_Elements.cpp) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | [Solution](./Heaps/973_K_Closest_Points_to_Origin.cpp) |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [Solution](./Heaps/1046_Last_Stone_Weight.cpp) |
+
+---
+
+## [Tries](Tries/)
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | [Solution](./Tries/211_Design_and_Search_Words.cpp) |
 
 ---
 
