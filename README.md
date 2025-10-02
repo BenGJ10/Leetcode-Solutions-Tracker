@@ -238,6 +238,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 |---------|------------|----------|
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Solution](./Heaps/215_Kth_Largest_Element.cpp) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](./Heaps/347_Top_K_Frequent_Elements.cpp) |
+| [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Solution](./Heaps/703_Kth_Largest_Element_in_Stream.cpp) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | [Solution](./Heaps/973_K_Closest_Points_to_Origin.cpp) |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [Solution](./Heaps/1046_Last_Stone_Weight.cpp) |
 
