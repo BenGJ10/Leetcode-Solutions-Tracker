@@ -47,7 +47,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Solution](./Strings/392_Is_Subsequence.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Solution](./Stwrings/443_String_Compression.cpp) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Solution](./Strings/451_Sort_Characters_by_Frequency.cpp) |
-
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Solution](./Strings/567_Permutation_in_Strings.cpp) |
 
 ---
 
