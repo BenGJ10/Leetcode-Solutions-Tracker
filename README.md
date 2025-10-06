@@ -39,6 +39,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Solution](./Strings/12_Integer_to_Roman.cpp) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Solution](./Strings/38_Count_and_Say.cpp) |
+| [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Solution](./Strings/43_Multiply_Strings.cpp) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Solution](./Strings/49_Group_Anagrams.cpp) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](./Strings/151_Reverse_Words_in_String.cpp) |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Solution](./Strings/205_Isomorphic_Strings.cpp) |
