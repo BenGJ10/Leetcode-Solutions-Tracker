@@ -45,9 +45,11 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [Solution](./Strings/205_Isomorphic_Strings.cpp) |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [Solution](./Strings/290_Word_Pattern.cpp) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Solution](./Strings/392_Is_Subsequence.cpp) |
+| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Solution](./Strings/438_Find_all_Anagrams_in_String.cpp) |
 | [443. String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Solution](./Stwrings/443_String_Compression.cpp) |
 | [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | [Solution](./Strings/451_Sort_Characters_by_Frequency.cpp) |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Solution](./Strings/567_Permutation_in_Strings.cpp) |
+| [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | Medium | [Solution](./Strings/890_Find_and_Replace_Pattern.cpp) |
 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | [Solution](./Strings/3043_Length_of_LCP.cpp) |
 
 ---
