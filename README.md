@@ -35,6 +35,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Solution](./Strings/6_Zigzag_Conversion.cpp) |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Solution](./Strings/8_String_to_Integer_(atoi).cpp) |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Solution](./Strings/12_Integer_to_Roman.cpp) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](./Strings/14_Longest_Common_Prefix.cpp) |
