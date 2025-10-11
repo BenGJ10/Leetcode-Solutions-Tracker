@@ -148,6 +148,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | [Solution](./Stack%20and%20Queues/224_Basic_Calculator.cpp) |
 | [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | Medium | [Solution](./Stack%20and%20Queues/227_Basic_Calculator_II.cpp) |
 | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Solution](./Stack%20and%20Queues/239_Sliding_Window_Maximum.cpp) |
+| [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Solution](./Stack%20and%20Queues/394_Decode_String.cpp) |
 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [Solution](./Stack%20and%20Queues/402_Remove_K_Digits.cpp) |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [Solution](./Stack%20and%20Queues/496_Next_Greater_Element_I.cpp) |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [Solution](./Stack%20and%20Queues/503_Next_Greater_Element_II.cpp) |
