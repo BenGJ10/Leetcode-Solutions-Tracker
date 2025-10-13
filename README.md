@@ -13,6 +13,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Solution](./Arrays/41_First_Missing_Positive.cpp) |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](./Arrays/53_Maximum_Subarray.cpp) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Solution](./Arrays/56_Merge_Intervals.cpp) |
+| [68. Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Solution](./Strings/68_Text_Justification.cpp) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](./Arrays/75_Sort_Colors.cpp) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Solution](./Arrays/128_Longest_Consecutive_Sequence.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
