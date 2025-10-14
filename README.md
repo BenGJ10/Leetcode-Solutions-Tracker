@@ -144,6 +144,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](./Stack%20and%20Queues/20_Valid_Parentheses.cpp) |
+| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Solution](./Stack%20and%20Queues/32_Longest_Valid_Parentheses.cpp) |
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Solution](./Stack%20and%20Queues/84_Largest_Rectangle_in_Histogram.cpp) |
 | [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | [Solution](./Stack%20and%20Queues/85_Maximal_Rectangle.cpp) |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Solution](./Stack%20and%20Queues/150_Reverse_Polish_Notation.cpp) |
