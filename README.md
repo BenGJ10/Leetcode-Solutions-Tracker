@@ -333,6 +333,11 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [1319. Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [Solution](./Graphs/1319_Number_of_Operations_to_Make_Network_Connected.cpp) |
 ---
 
+## [Dynamic Programming](Dynamic%20Programming/)
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Solution](./Dynamic%20Programming/70_Climbing_Stairs.cpp) |
+
 ## [Trees Miscellaneous](Trees%20Miscellaneous/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
