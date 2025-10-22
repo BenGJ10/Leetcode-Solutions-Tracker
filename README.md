@@ -249,6 +249,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Solution](./Heaps/215_Kth_Largest_Element.cpp) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](./Heaps/347_Top_K_Frequent_Elements.cpp) |
 | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | [Solution](./Heaps/378_Kth_Smallest_Element_in_Matrix.cpp) |
+| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | [Solution](./Heaps/621_Task_Scheduler.cpp) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](./Heaps/692_Top_K_Frequent_Words.cpp) |
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Solution](./Heaps/703_Kth_Largest_Element_in_Stream.cpp) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | [Solution](./Heaps/973_K_Closest_Points_to_Origin.cpp) |
