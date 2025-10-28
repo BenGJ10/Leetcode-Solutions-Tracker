@@ -253,6 +253,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | [Solution](./Heaps/621_Task_Scheduler.cpp) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](./Heaps/692_Top_K_Frequent_Words.cpp) |
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Solution](./Heaps/703_Kth_Largest_Element_in_Stream.cpp) |
+| [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | [Solution](./Heaps/846_Hand_of_Straights.cpp) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | [Solution](./Heaps/973_K_Closest_Points_to_Origin.cpp) |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [Solution](./Heaps/1046_Last_Stone_Weight.cpp) |
 
