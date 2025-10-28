@@ -246,6 +246,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 ## [Heaps / Priority Queues](Heaps/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Solution](./Heaps/23_Merge_k_Sorted_Lists.cpp) |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Solution](./Heaps/215_Kth_Largest_Element.cpp) |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Solution](./Heaps/295_Find_Median_from_Data_Stream.cpp) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](./Heaps/347_Top_K_Frequent_Elements.cpp) |
