@@ -250,6 +250,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Solution](./Heaps/215_Kth_Largest_Element.cpp) |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Solution](./Heaps/295_Find_Median_from_Data_Stream.cpp) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](./Heaps/347_Top_K_Frequent_Elements.cpp) |
+| [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | [Solution](./Heaps/355_Design_Twitter.cpp) |
 | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | [Solution](./Heaps/378_Kth_Smallest_Element_in_Matrix.cpp) |
 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | [Solution](./Heaps/621_Task_Scheduler.cpp) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](./Heaps/692_Top_K_Frequent_Words.cpp) |
