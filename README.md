@@ -252,6 +252,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Solution](./Heaps/347_Top_K_Frequent_Elements.cpp) |
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | [Solution](./Heaps/355_Design_Twitter.cpp) |
 | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | [Solution](./Heaps/378_Kth_Smallest_Element_in_Matrix.cpp) |
+| [502. IPO](https://leetcode.com/problems/ipo/) | Hard | [Solution](./Heaps/502_IPO.cpp) |
 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | [Solution](./Heaps/621_Task_Scheduler.cpp) |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](./Heaps/692_Top_K_Frequent_Words.cpp) |
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Solution](./Heaps/703_Kth_Largest_Element_in_Stream.cpp) |
