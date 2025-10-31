@@ -262,6 +262,13 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
+## Greedy Algorithms(Greedy%20Algorithms/)
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./Greedy%20Algorithms/455_Assign_Cookies.cpp) |
+
+---
+
 ## [Tries](Tries/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
