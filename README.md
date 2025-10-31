@@ -265,6 +265,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 ## Greedy Algorithms(Greedy%20Algorithms/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Solution](./Greedy%20Algorithms/55_Jump_Game.cpp) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./Greedy%20Algorithms/455_Assign_Cookies.cpp) |
 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [Solution](./Greedy%20Algorithms/860_Lemonade_Change.cpp) |
 ---
