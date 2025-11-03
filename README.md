@@ -267,6 +267,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 |---------|------------|----------|
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [Solution](./Greedy%20Algorithms/45_Jump_Game_II.cpp) |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Solution](./Greedy%20Algorithms/55_Jump_Game.cpp) |
+| [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Solution](./Greedy%20Algorithms/179_Largest_Number.cpp) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./Greedy%20Algorithms/455_Assign_Cookies.cpp) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [Solution](./Greedy%20Algorithms/678_Valid_Parenthesis_String.cpp) |
 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [Solution](./Greedy%20Algorithms/860_Lemonade_Change.cpp) |
