@@ -270,6 +270,8 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./Greedy%20Algorithms/455_Assign_Cookies.cpp) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [Solution](./Greedy%20Algorithms/678_Valid_Parenthesis_String.cpp) |
 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [Solution](./Greedy%20Algorithms/860_Lemonade_Change.cpp) |
+| [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium | [Solution](./Greedy%20Algorithms/1899_Merge_Triplets.cpp) |
+
 ---
 
 ## [Tries](Tries/)
