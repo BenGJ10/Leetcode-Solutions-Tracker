@@ -16,7 +16,6 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [68. Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Solution](./Strings/68_Text_Justification.cpp) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](./Arrays/75_Sort_Colors.cpp) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Solution](./Arrays/128_Longest_Consecutive_Sequence.cpp) |
-| [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Arrays/134_Gas_Station.cpp)|
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Solution](./Linked%20Lists/138_Copy_List_with_Random_Pointer.cpp) |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Solution](./Arrays/189_Rotate_Array.cpp) |
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Solution](./Arrays/229_Majority_Element_II.cpp) |
@@ -269,6 +268,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [Solution](./Greedy%20Algorithms/45_Jump_Game_II.cpp) |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Solution](./Greedy%20Algorithms/55_Jump_Game.cpp) |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Solution](./Greedy%20Algorithms/57_Insert_Interval.cpp) |
+| [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Greedy%20Algorithms/134_Gas_Station.cpp) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Solution](./Greedy%20Algorithms/179_Largest_Number.cpp) |
 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Solution](./Greedy%20Algorithms/435_Non_Overlapping_Intervals.cpp) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./Greedy%20Algorithms/455_Assign_Cookies.cpp) |
