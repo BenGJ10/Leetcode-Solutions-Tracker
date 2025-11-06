@@ -269,6 +269,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Solution](./Greedy%20Algorithms/55_Jump_Game.cpp) |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Solution](./Greedy%20Algorithms/57_Insert_Interval.cpp) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Greedy%20Algorithms/134_Gas_Station.cpp) |
+| [135. Candy](https://leetcode.com/problems/candy/) | Hard | [Solution](./Greedy%20Algorithms/135_Candy.cpp) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Solution](./Greedy%20Algorithms/179_Largest_Number.cpp) |
 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Solution](./Greedy%20Algorithms/435_Non_Overlapping_Intervals.cpp) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./Greedy%20Algorithms/455_Assign_Cookies.cpp) |
