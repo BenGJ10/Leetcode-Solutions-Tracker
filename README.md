@@ -311,6 +311,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Solution](./Graphs/130_Surrounded_Regions.cpp) |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Solution](./Graphs/133_Clone_Graph.cpp) |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Solution](./Graphs/200_Number_of_Islands.cpp) |
+| [365. Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | Medium | [Solution](./Graphs/365_Water_and_Jug_Problem.cpp) |
 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Solution](./Graphs/399_Evaluate_Division.cpp) |
 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | [Solution](./Graphs/417_Pacific_Atlantic_Water_Flow.cpp) |
 | [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | [Solution](./Graphs/433_Minimum_Genetic_Mutation.cpp) |
