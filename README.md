@@ -320,6 +320,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Solution](./Graphs/752_Open_the_Lock.cpp) |
 | [773. Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Solution](./Graphs/773_Flood_Fill.cpp) |
 | [785. Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/) | Medium | [Solution](./Graphs/785_Bipartite_Graph.cpp) |
+| [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | [Solution](./Graphs/841_Keys_and_Rooms.cpp) |
 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | [Solution](./Graphs/909_Snakes_and_Ladders.cpp) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Solution](./Graphs/994_Rotting_Oranges.cpp) |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Solution](./Graphs/1020_Number_of_Enclaves.cpp) |
