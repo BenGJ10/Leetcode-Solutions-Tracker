@@ -302,6 +302,13 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
+## [Math](Math/)
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | Medium | [Solution](./Math/3100_Water_Bottles_II.cpp) |
+
+---
+
 ## [BFS and DFS in Graphs](Graphs/)
 
 | Problem | Difficulty | Solution |
