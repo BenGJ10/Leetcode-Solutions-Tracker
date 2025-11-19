@@ -331,6 +331,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | [Solution](./Graphs/909_Snakes_and_Ladders.cpp) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Solution](./Graphs/994_Rotting_Oranges.cpp) |
 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Solution](./Graphs/1020_Number_of_Enclaves.cpp) |
+| [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | Medium | [Solution](./Graphs/1926_Nearest_Exit_from_Entrance_in_Maze.cpp) |
 
 ---
 
