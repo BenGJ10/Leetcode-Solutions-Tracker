@@ -156,10 +156,12 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | [Solution](./Stack%20and%20Queues/402_Remove_K_Digits.cpp) |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | [Solution](./Stack%20and%20Queues/496_Next_Greater_Element_I.cpp) |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | [Solution](./Stack%20and%20Queues/503_Next_Greater_Element_II.cpp) |
+| [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | Medium | [Solution](./Stack%20and%20Queues/636_Exclusive_Time_of_Functions.cpp) |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Solution](./Stack%20and%20Queues/739_Daily_Temperatures.cpp) |
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | [Solution](./Stack%20and%20Queues/853_Car_Fleet.cpp) |
 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Solution](./Stack%20and%20Queues/901_Online_Stock_Span.cpp) |
 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Solution](./Stack%20and%20Queues/907_Sum_of_Subarray_Minimums.cpp) |
+| [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | [Solution](./Stack%20and%20Queues/1441_Build_Array_With_Stack_Operations.cpp) |
 | [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | [Solution](./Stack%20and%20Queues/2104_Sum_of_Subarray_Ranges.cpp) |
 
 ---
