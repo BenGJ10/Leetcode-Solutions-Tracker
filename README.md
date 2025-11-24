@@ -273,6 +273,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [134. Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Solution](./Greedy%20Algorithms/134_Gas_Station.cpp) |
 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | [Solution](./Greedy%20Algorithms/135_Candy.cpp) |
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Solution](./Greedy%20Algorithms/179_Largest_Number.cpp) |
+| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | [Solution](./Greedy%20Algorithms/334_Increasing_Triplet_Subsequence.cpp) |
 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Solution](./Greedy%20Algorithms/435_Non_Overlapping_Intervals.cpp) |
 | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Solution](./Greedy%20Algorithms/455_Assign_Cookies.cpp) |
 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [Solution](./Greedy%20Algorithms/678_Valid_Parenthesis_String.cpp) |
