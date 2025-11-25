@@ -104,6 +104,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Solution](./Sliding%20Window/76_Minimum_Window_Substring.cpp) |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](./Sliding%20Window/209_Minimum_Size_Subarray_Sum.cpp) |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Solution](./Sliding%20Window/424_Longest_Repeating_Character_Replacement.cpp) |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [Solution](./Sliding%20Window/643_Maximum_Average_Subarray_I.cpp) |
 | [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Medium | [Solution](./Sliding%20Window/713_Subarray_Product_Less_Than_K.cpp) |
 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | [Solution](./Sliding%20Window/930_Binary_Subarrays_with_Sum.cpp) |
 | [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | [Solution](./Sliding%20Window/992_Subarrays_with_K_Different_Integers.cpp) |
