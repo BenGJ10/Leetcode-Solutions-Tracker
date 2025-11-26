@@ -346,6 +346,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 |---------|------------|----------|
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Solution](./Graphs/207_Course_Schedule.cpp) |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | [Solution](./Graphs/210_Course_Schedule_II.cpp) |
+| [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | [Solution](./Graphs/329_Longest_Increasing_Path_in_Matrix.cpp) |
 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Solution](./Graphs/802_Find_Eventual_Safe_States.cpp) |
 
 ---
