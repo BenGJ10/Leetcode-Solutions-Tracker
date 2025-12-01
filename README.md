@@ -55,6 +55,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Solution](./Strings/567_Permutation_in_Strings.cpp) |
 | [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | Medium | [Solution](./Strings/890_Find_and_Replace_Pattern.cpp) |
 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | [Solution](./Strings/1209_Remove_all_adjacent_Duplicates_II.cpp) |
+| [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | [Solution](./Strings/2785_Sort_Vowels_in_a_String.cpp) |
 | [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Medium | [Solution](./Strings/3043_Length_of_LCP.cpp) |
 
 ---
