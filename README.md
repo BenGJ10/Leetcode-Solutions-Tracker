@@ -105,6 +105,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Solution](./Prefix%20Sum/525_Contiguous_Array.cpp) |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Solution](./Prefix%20Sum/560_Subarray_Sums_Equals_K.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Solution](./Prefix%20Sum/724_Find_Pivot_Index.cpp) |
+| [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [Solution](./Prefix%20Sum/1124_Longest_Well_Performing_Interval.cpp) |
 
 ---
 
@@ -244,7 +245,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 ---
 
-## [ Binary Search Trees](Binary%20Search%20Trees/)
+## [Binary Search Trees](Binary%20Search%20Trees/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Solution](./Binary%20Search%20Trees/98_Validate_BST.cpp) |
