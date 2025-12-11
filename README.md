@@ -70,6 +70,15 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](./Matrix/73_Set_Matrix_Zeroes.cpp) |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](./Matrix/74_Search_a_2D_Matrix.cpp) |
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Solution](./Matrix/867_Transpose_Matrix.cpp) |
+
+---
+
+## [Hash Map](Hash%20Map/)
+
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/) | Medium | [Solution](./Hash%20Map/3583_Count_Special_Triplets.cpp) |
+
 ---
 
 ## [Two Pointers](Two%20Pointers/)
