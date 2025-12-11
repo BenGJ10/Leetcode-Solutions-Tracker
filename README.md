@@ -106,6 +106,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Solution](./Prefix%20Sum/560_Subarray_Sums_Equals_K.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Solution](./Prefix%20Sum/724_Find_Pivot_Index.cpp) |
 | [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [Solution](./Prefix%20Sum/1124_Longest_Well_Performing_Interval.cpp) |
+| [2488. Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | Hard | [Solution](./Prefix%20Sum/2488_Count_Subarrays_with_Median_K.cpp) |
 
 ---
 
