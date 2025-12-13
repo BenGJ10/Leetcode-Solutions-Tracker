@@ -77,6 +77,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) | Medium | [Solution](./Hash%20Map/454_4Sum_II.cpp) |
 | [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [Solution](./Hash%20Map/2352_Equal_Cols_and_Rows_Pairs.cpp) |
 | [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/) | Medium | [Solution](./Hash%20Map/3583_Count_Special_Triplets.cpp) |
 
