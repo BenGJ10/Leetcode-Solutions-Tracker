@@ -399,6 +399,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 |---------|------------|----------|
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Solution](./Dynamic%20Programming/70_Climbing_Stairs.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Solution](./Dynamic%20Programming/198_House_Robber.cpp) |
+| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
 
 ---
 
