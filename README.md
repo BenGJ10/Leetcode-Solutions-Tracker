@@ -397,6 +397,8 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 ## [Dynamic Programming](Dynamic%20Programming/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Solution](./Dynamic%20Programming/62_Unique_Paths.cpp) |
+| [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Solution](./Dynamic%20Programming/63_Unique_Paths_II.cpp) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Solution](./Dynamic%20Programming/70_Climbing_Stairs.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Solution](./Dynamic%20Programming/198_House_Robber.cpp) |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
