@@ -401,6 +401,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Solution](./Dynamic%20Programming/63_Unique_Paths_II.cpp) |
 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Solution](./Dynamic%20Programming/64_Minimum_Path_Sum.cpp) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Solution](./Dynamic%20Programming/70_Climbing_Stairs.cpp) |
+| [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | [Solution](./Dynamic%20Programming/120_Triangle.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Solution](./Dynamic%20Programming/198_House_Robber.cpp) |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
 
