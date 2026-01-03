@@ -404,6 +404,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | [Solution](./Dynamic%20Programming/120_Triangle.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Solution](./Dynamic%20Programming/198_House_Robber.cpp) |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
+| [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Solution](./Dynamic%20Programming/931_Minimum_Falling_Path_Sum.cpp) |
 
 ---
 
