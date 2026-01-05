@@ -70,6 +70,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](./Matrix/73_Set_Matrix_Zeroes.cpp) |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](./Matrix/74_Search_a_2D_Matrix.cpp) |
 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Solution](./Matrix/867_Transpose_Matrix.cpp) |
+| [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | Medium | [Solution](./Matrix/1975_Maximum_Matrix_Sum.cpp) |
 
 ---
 
