@@ -405,6 +405,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | [Solution](./Dynamic%20Programming/120_Triangle.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Solution](./Dynamic%20Programming/198_House_Robber.cpp) |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
+| [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Solution](./Dynamic%20Programming/416_Partition_Equal_Subset_Sum.cpp) |
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Solution](./Dynamic%20Programming/931_Minimum_Falling_Path_Sum.cpp) |
 | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Medium | [Solution](./Dynamic%20Programming/1411_Number_of_Ways_to_Paint_Nx3_Grid.cpp) |
 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Solution](./Dynamic%20Programming/1463_Cherry_Pickup_II.cpp) |
