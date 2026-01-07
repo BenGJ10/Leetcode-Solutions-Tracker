@@ -245,6 +245,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | [Solution](./Binary%20Trees/863_All_Nodes_Distance_K.cpp) |
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | Hard | [Solution](./Binary%20Trees/987_Vertical_Order_Traversal.cpp) |
 | [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Solution](./Binary%20Trees/1161_Max_Level_Sum_of_BT.cpp) |
+| [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | Medium | [Solution](./Binary%20Trees/1339_Max_Product_of_Splitted_BT.cpp) |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | [Solution](./Binary%20Trees/1448_Count_Good_Nodes_in_Binary_Tree.cpp) |
 | [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | [Solution](./Binary%20Trees/2385_Amount_of_Time_Taken_to_Burn_Trees.cpp) |
 
