@@ -108,8 +108,10 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Solution](./Prefix%20Sum/525_Contiguous_Array.cpp) |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Solution](./Prefix%20Sum/560_Subarray_Sums_Equals_K.cpp) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [Solution](./Prefix%20Sum/724_Find_Pivot_Index.cpp) |
+| [1109. Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | Medium | [Solution](./Prefix%20Sum/1109_Corporate_Flight_Bookings.cpp) |
 | [1124. Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | Medium | [Solution](./Prefix%20Sum/1124_Longest_Well_Performing_Interval.cpp) |
 | [2488. Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | Hard | [Solution](./Prefix%20Sum/2488_Count_Subarrays_with_Median_K.cpp) |
+| [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | Medium | [Solution](./Prefix%20Sum/3355_Zero_Array_Transformation_I.cpp) |
 
 ---
 
