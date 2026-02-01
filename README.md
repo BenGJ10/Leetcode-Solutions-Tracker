@@ -318,6 +318,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Solution](./Recursion/17_Letter_Combinations_of_Phone_Number.cpp.cpp) |
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Solution](./Recursion/22_Generate_Parentheses.cpp) |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Solution](./Recursion/37_Sudoku_Solver.cpp) |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](./Recursion/39_Combination_Sum.cpp) |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Solution](./Recursion/40_Combination_Sum_II.cpp) |
