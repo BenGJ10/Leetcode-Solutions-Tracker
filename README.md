@@ -325,6 +325,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | [Solution](./Recursion/46_Permutations.cpp) |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Solution](./Recursion/47_Permutations_II.cpp) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](./Recursion/50_Pow(x,n).cpp) |
+| [51. N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Solution](./Recursion/51_N_Queens.cpp) |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](./Recursion/79_Word_Search.cpp) |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](./Recursion/90_Subsets_II.cpp) |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Solution](./Recursion/131_Palindrome_Partitioning.cpp) |
