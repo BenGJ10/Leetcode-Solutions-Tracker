@@ -329,6 +329,7 @@ The solutions are categorized based on the type of problem or algorithm used. Ea
 | [79. Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](./Recursion/79_Word_Search.cpp) |
 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](./Recursion/90_Subsets_II.cpp) |
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Solution](./Recursion/131_Palindrome_Partitioning.cpp) |
+| [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | [Solution](./Recursion/140_Word_Break_II.cpp) |
 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | [Solution](./Recursion/216_Combination_Sum_III.cpp) |
 | [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | Medium | [Solution](./Recursion/698_Partition_to_K_Equal_Sum_Subsets.cpp) |
 | [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | Medium | [Solution](./Recursion/1922_Count_Good_Numbers.cpp) |
