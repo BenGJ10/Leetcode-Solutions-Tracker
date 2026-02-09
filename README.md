@@ -421,6 +421,8 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Solution](./Dynamic%20Programming/322_Coin_Change.cpp) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Solution](./Dynamic%20Programming/416_Partition_Equal_Subset_Sum.cpp) |
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Solution](./Dynamic%20Programming/931_Minimum_Falling_Path_Sum.cpp) |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Solution](./Dynamic%20Programming/1143_Longest_Common_Subsequence.cpp) |
+| [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | [Solution](./Dynamic%20Programming/1312_Minimum_Insertion_Steps_to_Make_Palindrome.cpp) |
 | [1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | Medium | [Solution](./Dynamic%20Programming/1411_Number_of_Ways_to_Paint_Nx3_Grid.cpp) |
 | [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | Medium | [Solution](./Dynamic%20Programming/1458_Max_Dot_Product_of_Two_Subsequences.cpp) |
 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | Hard | [Solution](./Dynamic%20Programming/1463_Cherry_Pickup_II.cpp) |
