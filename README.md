@@ -409,6 +409,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 ## [Dynamic Programming](Dynamic%20Programming/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Solution](./Dynamic%20Programming/5_Longest_Palindromic_Substring.cpp) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Solution](./Dynamic%20Programming/62_Unique_Paths.cpp) |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Solution](./Dynamic%20Programming/63_Unique_Paths_II.cpp) |
 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Solution](./Dynamic%20Programming/64_Minimum_Path_Sum.cpp) |
@@ -420,6 +421,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Solution](./Dynamic%20Programming/279_Perfect_Squares.cpp) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Solution](./Dynamic%20Programming/322_Coin_Change.cpp) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Solution](./Dynamic%20Programming/416_Partition_Equal_Subset_Sum.cpp) |
+| [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [Solution](./Dynamic%20Programming/583_Delete_Operation_for_Two_Strings.cpp) |
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Solution](./Dynamic%20Programming/931_Minimum_Falling_Path_Sum.cpp) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Solution](./Dynamic%20Programming/1143_Longest_Common_Subsequence.cpp) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | [Solution](./Dynamic%20Programming/1312_Minimum_Insertion_Steps_to_Make_Palindrome.cpp) |
