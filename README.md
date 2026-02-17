@@ -312,6 +312,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 ## [Tries](Tries/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Solution](./Tries/208_Implement_Trie.cpp) |
 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | [Solution](./Tries/211_Design_and_Search_Words.cpp) |
 
 ---

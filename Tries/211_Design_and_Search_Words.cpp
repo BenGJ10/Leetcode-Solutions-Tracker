@@ -4,98 +4,138 @@ Link: https://leetcode.com/problems/design-add-and-search-words-data-structure/
 
 ------------------------------------------------------
 Problem Summary:
-Design a data structure that supports adding new words
-and searching for words where '.' can represent any letter.
+Design a data structure that supports:
+1️⃣ addWord(word)  
+2️⃣ search(word)
 
-Class should support:
-    - `void addWord(string word)`
-    - `bool search(string word)` (with '.' wildcard support)
+search(word) supports '.' wildcard:
+- '.' can represent any single lowercase letter.
 
 ------------------------------------------------------
-Brute Force Approach (Store All Words & Check):
-1. Keep a list/vector of all added words.
-2. For search:
-   - Compare against every stored word.
-   - Handle '.' by allowing any char at that position.
-3. Return true if any word matches.
+Example:
+Input:
+WordDictionary wordDictionary = new WordDictionary();
+wordDictionary.addWord("bad");
+wordDictionary.addWord("dad");
+wordDictionary.addWord("mad");
+
+wordDictionary.search("pad"); // false
+wordDictionary.search("bad"); // true
+wordDictionary.search(".ad"); // true
+wordDictionary.search("b.."); // true
+
+------------------------------------------------------
+Brute Force Approach:
+Store words in a vector and:
+- For search:
+  - Compare with every stored word.
+  - Handle '.' manually.
 
 - Time Complexity:
-    * addWord: O(1)
-    * search: O(n * m), where n = number of words, m = word length
-- Space Complexity: O(n * m) to store all words.
+  addWord → O(1)
+  search  → O(N * L)
+  (N = number of words, L = word length)
+
+Inefficient for large inputs.
 
 ------------------------------------------------------
-Optimal Approach (Trie with DFS for Wildcard):
+Optimal Approach (Trie + Backtracking):
 Idea:
-- Use a Trie to store words character by character.
-- `addWord` → Insert into Trie normally.
-- `search` → 
-    * Traverse Trie character by character.
-    * If '.', branch out to all children and DFS.
-    * If normal character, just follow that child.
-    * At end, check isEndOfWord.
+Use a Trie to store words efficiently.
 
-Steps:
-1. Constructor initializes root node with 26 children.
-2. addWord: iterate through chars, create nodes if missing.
-3. search:
-   - If char is '.', try all children recursively.
-   - Otherwise follow specific path.
-   - Base condition: return true if isEndOfWord at end.
+For search:
+- If character is normal:
+    → move to corresponding child.
+- If character is '.':
+    → recursively try all 26 children.
 
-- Time Complexity:
-    * addWord: O(m), where m = word length.
-    * search: O(26^d * m) worst-case (d = number of '.' wildcards).
-- Space Complexity: O(n * m) for Trie storage.
+If we reach end of word and node->endOfStr == true,
+then word exists.
+
+------------------------------------------------------
+Time & Space Complexity:
+- addWord: O(L)
+- search:
+    Worst case: O(26^L) (if many '.' wildcards)
+    Typical case: O(L)
+- Space Complexity: O(total characters inserted)
 
 ------------------------------------------------------
 */
 
-#include <vector>
 #include <string>
 using namespace std;
 
-class WordDictionary {
-private:
-    vector<WordDictionary*> children;
-    bool isEndOfWord;
+class TrieNode {
 public:
-    WordDictionary(): isEndOfWord(false) {
-        children = vector<WordDictionary*>(26, nullptr);
+    TrieNode* links[26];
+    bool endOfStr;
+
+    TrieNode() {
+        for (int i = 0; i < 26; i++)
+            links[i] = nullptr;
+        endOfStr = false;
     }
-    
+};
+
+class WordDictionary {
+public:
+    TrieNode* root;
+
+    WordDictionary() {
+        root = new TrieNode();
+    }
+
     void addWord(string word) {
-        WordDictionary* curr = this;
-        for (char ch: word) {
-            if (curr->children[ch - 'a'] == nullptr) {
-                curr->children[ch - 'a'] = new WordDictionary();
-            }
-            curr = curr->children[ch - 'a'];
+        TrieNode* curr = root;
+
+        for (char &ch : word) {
+            int idx = ch - 'a';
+
+            if (curr->links[idx] == nullptr)
+                curr->links[idx] = new TrieNode();
+
+            curr = curr->links[idx];
         }
-        curr->isEndOfWord = true;
+
+        curr->endOfStr = true;
     }
-    
+
     bool search(string word) {
-        WordDictionary* curr = this;
-        for (int i = 0; i < word.length(); i++) {
-            char c = word[i];
-            if (c == '.') {
-                for (auto ch: curr->children) {
-                    if (ch != nullptr && ch->search(word.substr(i + 1))) 
+        return searchWord(word, 0, root);
+    }
+
+    bool searchWord(string &word, int index, TrieNode* node) {
+        TrieNode* curr = node;
+
+        for (int i = index; i < word.length(); i++) {
+            char ch = word[i];
+
+            if (ch == '.') {
+                // Try all possible children
+                for (TrieNode* child : curr->links) {
+                    if (child != nullptr &&
+                        searchWord(word, i + 1, child)) {
                         return true;
+                    }
                 }
                 return false;
+            } 
+            else {
+                if (curr->links[ch - 'a'] == nullptr)
+                    return false;
+
+                curr = curr->links[ch - 'a'];
             }
-            if (curr->children[c - 'a'] == nullptr) return false;
-            curr = curr->children[c - 'a'];
-        } 
-        return curr && curr->isEndOfWord;
+        }
+
+        return curr->endOfStr;
     }
 };
 
 /*
 Usage:
 WordDictionary* obj = new WordDictionary();
-obj->addWord("bad");
-bool found = obj->search("b.."); // true
+obj->addWord(word);
+bool result = obj->search(word);
 */
