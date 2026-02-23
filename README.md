@@ -343,6 +343,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [Solution](./Math/204_Count_Primes.cpp) |
+| [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Solution](./Math/1071_GCD_of_Strings.cpp) |
 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | [Solution](./Math/2523_Closest_Prime_Numbers_in_Range.cpp) |
 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | Medium | [Solution](./Math/3100_Water_Bottles_II.cpp) |
 
