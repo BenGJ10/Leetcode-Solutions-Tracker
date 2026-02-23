@@ -342,6 +342,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 ## [Math](Math/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [204. Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [Solution](./Math/204_Count_Primes.cpp) |
 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/) | Medium | [Solution](./Math/3100_Water_Bottles_II.cpp) |
 
 ---
