@@ -380,8 +380,10 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 ## [Topological Sorting in Graphs](Graphs/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Solution](./Graphs/207_Course_Schedule.cpp) |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | [Solution](./Graphs/210_Course_Schedule_II.cpp) |
+| [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Solution](./Graphs/310_Minimum_Height_Trees.cpp) |
 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | [Solution](./Graphs/329_Longest_Increasing_Path_in_Matrix.cpp) |
 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Solution](./Graphs/802_Find_Eventual_Safe_States.cpp) |
 | [851. Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | Medium | [Solution](./Graphs/851_Loud_and_Rich.cpp) |
@@ -393,6 +395,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | [Solution](./Graphs/743_Network_Delay_Time.cpp) |
+| [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [Solution](./Graphs/778_Swim_in_Rising_Water.cpp) |
 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Solution](./Graphs/787_Cheapest_Flights_Within_K_Stops.cpp) |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Solution](./Graphs/1091_Shortest_Path_in_Binary_Matrix.cpp) |
 | [1334. City with the Smallest Number of Neighbors](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | [Solution](./Graphs/1334_City_with_the_Smallest_Number_of_Neighbors.cpp) |
