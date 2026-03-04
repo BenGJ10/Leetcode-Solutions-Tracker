@@ -426,6 +426,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | [Solution](./Dynamic%20Programming/91_Decode_Ways.cpp) |
 | [97. Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | [Solution](./Dynamic%20Programming/97_Interleaving_String.cpp) |
 | [120. Triangle](https://leetcode.com/problems/triangle/) | Medium | [Solution](./Dynamic%20Programming/120_Triangle.cpp) |
+| [139. Word Break](https://leetcode.com/problems/word-break/) | Medium | [Solution](./Dynamic%20Programming/139_Word_Break.cpp) |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Solution](./Dynamic%20Programming/198_House_Robber.cpp) |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Solution](./Dynamic%20Programming/279_Perfect_Squares.cpp) |
