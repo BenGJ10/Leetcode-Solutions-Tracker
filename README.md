@@ -380,7 +380,6 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 ## [Topological Sorting in Graphs](Graphs/)
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Solution](./Graphs/207_Course_Schedule.cpp) |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | [Solution](./Graphs/210_Course_Schedule_II.cpp) |
 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Solution](./Graphs/310_Minimum_Height_Trees.cpp) |
@@ -434,6 +433,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Solution](./Dynamic%20Programming/343_Integer_Break.cpp) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Solution](./Dynamic%20Programming/416_Partition_Equal_Subset_Sum.cpp) |
 | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [Solution](./Dynamic%20Programming/583_Delete_Operation_for_Two_Strings.cpp) |
+| [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | [Solution](./Dynamic%20Programming/673_Number_of_Longest_Increasing_Subsequence.cpp) |
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Solution](./Dynamic%20Programming/931_Minimum_Falling_Path_Sum.cpp) |
 | [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Medium | [Solution](./Dynamic%20Programming/1092_Shortest_Common_Supersequence.cpp) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Solution](./Dynamic%20Programming/1143_Longest_Common_Subsequence.cpp) |
