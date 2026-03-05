@@ -431,6 +431,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Solution](./Dynamic%20Programming/279_Perfect_Squares.cpp) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Solution](./Dynamic%20Programming/322_Coin_Change.cpp) |
+| [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Solution](./Dynamic%20Programming/343_Integer_Break.cpp) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Solution](./Dynamic%20Programming/416_Partition_Equal_Subset_Sum.cpp) |
 | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [Solution](./Dynamic%20Programming/583_Delete_Operation_for_Two_Strings.cpp) |
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Solution](./Dynamic%20Programming/931_Minimum_Falling_Path_Sum.cpp) |
