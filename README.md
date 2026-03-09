@@ -418,6 +418,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Solution](./Dynamic%20Programming/5_Longest_Palindromic_Substring.cpp) |
+| [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [Solution](./Dynamic%20Programming/44_Wildcard_Matching.cpp) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Solution](./Dynamic%20Programming/62_Unique_Paths.cpp) |
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Solution](./Dynamic%20Programming/63_Unique_Paths_II.cpp) |
 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Solution](./Dynamic%20Programming/64_Minimum_Path_Sum.cpp) |
