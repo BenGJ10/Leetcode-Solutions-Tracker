@@ -349,6 +349,15 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 
 ---
 
+## [Bit Manipulation](Bit%20Manipulation/)
+| Problem | Difficulty | Solution |
+|---------|------------|----------|
+| [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | | [Solution](./Bit%20Manipulation/136_Single_Number.cpp) |
+| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Solution](./Bit%20Manipulation/191_Number_of_1_Bits.cpp) |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Medium | [Solution](./Bit%20Manipulation/338_Counting_Bits.cpp) |
+
+---
+
 ## [BFS and DFS in Graphs](Graphs/)
 
 | Problem | Difficulty | Solution |
