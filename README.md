@@ -355,6 +355,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | | [Solution](./Bit%20Manipulation/136_Single_Number.cpp) |
 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Solution](./Bit%20Manipulation/191_Number_of_1_Bits.cpp) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Medium | [Solution](./Bit%20Manipulation/338_Counting_Bits.cpp) |
+| [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Medium | [Solution](./Bit%20Manipulation/2220_Minimum_Bit_Flips.cpp) |
 
 ---
 
