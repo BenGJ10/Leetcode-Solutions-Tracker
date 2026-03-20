@@ -183,6 +183,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | Medium | [Solution](./Stack%20and%20Queues/853_Car_Fleet.cpp) |
 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Solution](./Stack%20and%20Queues/901_Online_Stock_Span.cpp) |
 | [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | [Solution](./Stack%20and%20Queues/907_Sum_of_Subarray_Minimums.cpp) |
+| [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [Solution](./Stack%20and%20Queues/1249_Minimum_Remove_to_Make_Valid_Parentheses.cpp) |
 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | [Solution](./Stack%20and%20Queues/1441_Build_Array_With_Stack_Operations.cpp) |
 | [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | [Solution](./Stack%20and%20Queues/2104_Sum_of_Subarray_Ranges.cpp) |
 
