@@ -186,6 +186,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | [Solution](./Stack%20and%20Queues/1249_Minimum_Remove_to_Make_Valid_Parentheses.cpp) |
 | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Medium | [Solution](./Stack%20and%20Queues/1441_Build_Array_With_Stack_Operations.cpp) |
 | [2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | [Solution](./Stack%20and%20Queues/2104_Sum_of_Subarray_Ranges.cpp) |
+| [2672. Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | Medium | [Solution](./Stack%20and%20Queues/2672_Adjacent_Elements_with_Same_Color.cpp) |
 
 ---
 
