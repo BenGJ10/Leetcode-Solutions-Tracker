@@ -152,6 +152,7 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | [Solution](./Binary%20Search/744_Smallest_Letter_Greater_than_Target.cpp) |
 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](./Binary%20Search/875_Koko_eating_Bananas.cpp) |
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](./Binary%20Search/1011_Capacity_to_Ship_Packages_within_D_Days.cpp) |
+| [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | [Solution](./Binary%20Search/1095_Find_in_Mountain_Array.cpp) |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Medium | [Solution](./Binary%20Search/1482_Minimum_Days_to_make_Bouquets.cpp) |
  [1552. Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | Medium | [Solution](./Binary%20Search/1552_Magnetic_Force_Between_Two_Balls.cpp) |
  | [1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | Medium | [Solution](./Binary%20Search/1870_Minimum_Speed_to_Arrive_on_Time.cpp) |
