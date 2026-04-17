@@ -444,12 +444,14 @@ Maintaining this repository as a `tracker` for my progress in solving `LeetCode`
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Solution](./Dynamic%20Programming/198_House_Robber.cpp) |
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Solution](./Dynamic%20Programming/213_House_Robber_II.cpp) |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Solution](./Dynamic%20Programming/279_Perfect_Squares.cpp) |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Solution](./Dynamic%20Programming/300_Longest_Increasing_Subsequence.cpp) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Solution](./Dynamic%20Programming/322_Coin_Change.cpp) |
 | [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Solution](./Dynamic%20Programming/343_Integer_Break.cpp) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Solution](./Dynamic%20Programming/416_Partition_Equal_Subset_Sum.cpp) |
 | [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [Solution](./Dynamic%20Programming/583_Delete_Operation_for_Two_Strings.cpp) |
 | [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | [Solution](./Dynamic%20Programming/673_Number_of_Longest_Increasing_Subsequence.cpp) |
 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | [Solution](./Dynamic%20Programming/931_Minimum_Falling_Path_Sum.cpp) |
+| [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [Solution](./Dynamic%20Programming/1048_Longest_String_Chain.cpp) |
 | [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Medium | [Solution](./Dynamic%20Programming/1092_Shortest_Common_Supersequence.cpp) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Solution](./Dynamic%20Programming/1143_Longest_Common_Subsequence.cpp) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | [Solution](./Dynamic%20Programming/1312_Minimum_Insertion_Steps_to_Make_Palindrome.cpp) |
